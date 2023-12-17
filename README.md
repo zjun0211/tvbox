@@ -45,7 +45,7 @@ FongMi影视、TVBox、猫影视配置文件。所有资源均来自于各路大
 
 3. TVBox各路大佬配置（排名不分先后）：
 
-（1）okjack：https://999740.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.jsonp
+（1）okjack：https://999740.xyz/https://raw.githubusercontent.com/okcaptain/okjar/rm/ok.json
 
 （2）Fongmi：https://999740.xyz/https://raw.githubusercontent.com/gaotianliuyun/fongmi/main/json/config.json
 
